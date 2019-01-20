@@ -1,0 +1,8 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Ame-iro-Cocoa-Side-G-240x300.jpg" group-title="Ame-iro Cocoa: Side G LEG-SD",5x1-LEG Ame-iro Cocoa: Side G
+https://2.bp.blogspot.com/fmimsM6t7lE9Uq9xd-xIVwjAKmh7UpSZ16kFLIwtg4EWFsS1DOXXD9T1GNhP8twmkbZrv5ip8yRp7U-oVvM=m18?.mp4
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Ame-iro-Cocoa-Side-G-240x300.jpg" group-title="Ame-iro Cocoa: Side G LEG-SD",5x2-LEG Ame-iro Cocoa: Side G
+https://2.bp.blogspot.com/_bR_BV4MCHGG8ARafo2ICZwgfJIm04WT7RHR7lts0xH5eFpLH1UeRohRIprR509NkWNc-ziKfER01C06Y9E=m18?.mp4
