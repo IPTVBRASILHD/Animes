@@ -1,0 +1,28 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png"
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x1-DUB Sirius the Jaeger
+avi,1x1-DUB,https://2.bp.blogspot.com/H3KwoWul9zsE6g-wsJ8p24DXlodaT3VMjsNMrPEGQOgvem_ojGYy2Su_08uoWeEmUCPbeUMB3gkwFsMT_AM=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x2-DUB Sirius the Jaeger
+avi,1x2-DUB,https://2.bp.blogspot.com/ofNOQPrKHWCQlRVQTYVi4q66NuVrZVZ6fKuYHi6Vt_2G5cVIVoGu1adt6S68eG2xxmDRRA5hEihO8CQ-Y74=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x3-DUB Sirius the Jaeger
+avi,1x3-DUB,https://2.bp.blogspot.com/Mt2fRANMPBBhphiMofp9frnBOOy3CV0Rc00oEG3zbZpf6UJmJYOV-N0usmaIIXGDkx2pJtvixZNpyTrqu48=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x4-DUB Sirius the Jaeger
+avi,1x4-DUB,https://2.bp.blogspot.com/6MsWKtOsroLHqp8GrsBnBXEvz4JrEXoy4l_5yTRBLaOTD9Fc3GJB_G1l8k9maqLxo4yOWbgwMfXe0JIJ2rw=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x5-DUB Sirius the Jaeger
+avi,1x5-DUB,https://2.bp.blogspot.com/-4iAmQ1LLCB5vMeKjaLkQQJvZiCjPhQYm6K4eGpHXorBepqAklEsagchEk8m1WlF6pzMyQX4J7Pq3H_8b9Y=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x6-DUB Sirius the Jaeger
+avi,1x6-DUB,https://2.bp.blogspot.com/0CoguFsGbpFHpnbUu467YyKWXkvz7fIi9lLem_Q13GCZzECYqSYjkw01T2jafS2JLH37VSewO6Ga93xIBfo=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x7-DUB Sirius the Jaeger
+avi,1x7-DUB,https://2.bp.blogspot.com/MKjupgEWjzLLrY3aqnJzozCisq0SmZBBVqwWI5KDKt_rZkdZuIXZGQh25UgOWmkxMLGq9JeM4MnEUFRrkEA=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x8-DUB Sirius the Jaeger
+avi,1x8-DUB,https://2.bp.blogspot.com/UAL4bEZMAqsOH_D-im5XpVBNr1cZakoigQBjzhzRjNC-8msayhlYkf2d3Vs5ysQBDTyXKFvUXwDBHCI1QbQ=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x9-DUB Sirius the Jaeger
+avi,1x9-DUB,https://2.bp.blogspot.com/fsyVgnRiL6QtUeJY4sTOgvuICqoTrALutl3Wsrh3Tre4IjpXKXSxP9fkE093odPa02QFCSo5ugHhA2_QI4Y=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x10-DUB Sirius the Jaeger
+avi,1x10-DUB,https://2.bp.blogspot.com/v8SSnoyBz-GUEoaRlskxepXtu9iWl0OSS1KYTg1lWKEETHh-GgpWbVmbPzI4Ua50VwMEG3-VhPOx5iaU8v0=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x11-DUB Sirius the Jaeger
+avi,1x11-DUB,https://2.bp.blogspot.com/c81KePNSf-KH_97wSd-h6kSFwRzP48hbalAWp3Tq52ELvQKqB-1iCE58wolPaVqL0rVSbb15Bj2BVwxhjD8=m18?.mp4
+#EXTINF:-1 tvg-logo="" group-title="Sirius the Jaeger DUB-SD",1x12-DUB Sirius the Jaeger
+avi,1x12-DUB,https://2.bp.blogspot.com/pu5HUcwjaEjcmC2Vq0ADBXHq1j0vsm8EtkZTax3-DjFVmiXrps70km9ktv3kDq6mh6iMmyd7Alo-T7n-elI=m18?.mp4
