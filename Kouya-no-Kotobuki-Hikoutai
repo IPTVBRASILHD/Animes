@@ -1,0 +1,14 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Kouya-no-Kotobuki-Hikoutai-212x300.jpg" group-title="Kouya no Kotobuki Hikoutai LEG-SD",1x1-LEG Kouya no Kotobuki Hikoutai
+http://animesonlinebr.com.br/video-player?token=AD6v5dzUEJmcHz0X6uCk9SjETnmj-E4LslpiH4e0REUXrOzJx_Vesb4-JBUVAZNsm2f_1UvoDv2m8e41qYSepSh-Xf-eQ5ekZfKQ1UrqHUDabnA7kdCrJvIfKb5__F65FDn6k1ruGmbR
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Kouya-no-Kotobuki-Hikoutai-212x300.jpg" group-title="Kouya no Kotobuki Hikoutai LEG-SD",1x2-LEG Kouya no Kotobuki Hikoutai
+http://animesonlinebr.com.br/video-player?token=AD6v5dzfNYuZGEujlg5N_kM4-ZVNru6xbVk3X-LH-i4oYaRgf6B4iJlTk75NIVeDaXf62USZSboumsDY7GYpuAGF-IogjTw1P4LAyRWojFAGU3ESkh0E0QI3tv9DBaAwTml0R7c7TJs
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Kouya-no-Kotobuki-Hikoutai-212x300.jpg" group-title="Kouya no Kotobuki Hikoutai LEG-SD",1x3-LEG Kouya no Kotobuki Hikoutai
+http://animesonlinebr.com.br/video-player?token=AD6v5dwCcZne7eBwY2q6zdrDSmxTiim0hsb5FmPdacAIv9CyaG4gmcFG13cQReUxygK-wpVShgMYRXT6MiLPziQv_qgGBONvyzkVukvjau8uVn9cZ4dkdgUamry9yjdv0K-grYt8JIs
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Kouya-no-Kotobuki-Hikoutai-212x300.jpg" group-title="Kouya no Kotobuki Hikoutai LEG-SD",1x4-LEG Kouya no Kotobuki Hikoutai
+http://animesonlinebr.com.br/video-player?token=AD6v5dxle08vleW1lpe8Lsv1ZevjKMWDRtHz2GBN7HqtNmlo-ZC-xoofTue4z70tUNsbVwbBpDYlgSPaC0s4PU3c_mtF73NdRH0Yv1IKq1L6EUz5UjnymsjMWeN2fOrYkh-p3FC2cDk
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Kouya-no-Kotobuki-Hikoutai-212x300.jpg" group-title="Kouya no Kotobuki Hikoutai LEG-SD",1x5-LEG Kouya no Kotobuki Hikoutai
+http://animesonlinebr.com.br/video-player?token=AD6v5dzoOLe20HHCjoJBtec_FOiZxv1-_C8LpEXnFoYgXR93UzUCJv4PPEjKT4oww5ilJScjLLNjnH9YdbnRtmPBFMjIg5BeeoDAIXSW07dfDL0mPfdPR7QCVFKOrv7xboIEld1Mx1w
