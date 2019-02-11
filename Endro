@@ -1,0 +1,14 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/IiRdlL2.png" 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IiRdlL2.png" group-title="ACERVO IPTV",acervoiptv.blogspot.com
+
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Endro-212x300.jpg" group-title="Endro LEG-SD",1x1-LEG Endro
+http://animesonlinebr.com.br/video-player?token=AD6v5dw-g5k0pp2GrGjPXf5PIpMzHXBYO49H_WD4TbTcb2yXyHMKqwofZ__iEt_ByfPpVeu6Xw6gC--Go9z09X-Bnsv9Uw7X1F_EpzkD1fuXxbQcjFazB2eIT-cKX4cDeH-y8ixD2vJu
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Endro-212x300.jpg" group-title="Endro LEG-SD",1x2-LEG Endro
+http://animesonlinebr.com.br/video-player?token=AD6v5dwpVL_O47fmPIPch0h7rWENGl3MBQV2P_v6exYozTymjttxBH3ynxMMNDhYhPnHnQPFCt3Ybxq2iIhZV37Pdt616Ydl62wP0K8ybslEbN0-lQAHuxw0FFrDPG1WyDa9CA8vNR8
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Endro-212x300.jpg" group-title="Endro LEG-SD",1x3-LEG Endro
+http://animesonlinebr.com.br/video-player?token=AD6v5dzy_gNJelkBiNzXKbeSvY_FK_X45fG2VZeUQBivqWeS1y0CHYE_gc9igdTJcS3QWaoCX00qUan5sX4uRDjUwQ29bmE6IaAhzQ4bLkTJ_jF0lrprIrd31fUy_MI0kJEs1_F64Y4i
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Endro-212x300.jpg" group-title="Endro LEG-SD",1x4-LEG Endro
+http://animesonlinebr.com.br/video-player?token=AD6v5dygvG60Rj9TD5zM_qSt1NnLhlsgB73M_UD1sdyb021PMTIJTenD-tq-r-9iAgLA5HE5xwmLeN3bAVDZH8LWIXlvGjR7bj-b8Md1ITmFpkoIr9U-vh9N7cP3lk9_-tCeH0zeFrhe
+#EXTINF:-1 tvg-logo="https://animeq.xpg.com.br/wp-content/uploads/2019/01/Endro-212x300.jpg" group-title="Endro LEG-SD",1x5-LEG Endro
+http://animesonlinebr.com.br/video-player?token=AD6v5dwWxzM5hzwS9OCFuI27-FUyd2MxE07C15mSHzDRtjbk7KIv6abBwEHq5dK5WbjW-RymGne19umj_aW1UG9Ta0kPRLB15Vi73M-IQAcG2AwqwfSVDwYyKuw5JmSdkCMsMNNR258
